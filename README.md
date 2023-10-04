@@ -6,6 +6,8 @@ e) salv.m.argent@gmail.com
 
 Github: @[sargtier1](https://github.com/sargtier1)
 
+Linkedin: @[Salvatore Argentieri](https://www.linkedin.com/in/salvatore-argentieri-39a363146/)
+
 ## Skills
 
 **Front-end Development**
