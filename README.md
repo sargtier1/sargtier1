@@ -78,25 +78,24 @@ circa 2017 - Apr 2022 | *Dallas, TX*
 
 ## **Education**
 
-**Secondary Education**
-
-2012-2016
-
 **Collin College**
 
-*Frisco, TX*
-
-AS in Computer Science
-
-**Certification**
-
-2017-2018
+    2012-2016 | *Frisco, TX*
+    
+    AS in Computer Science
 
 **Southern Methodist University**
 
-*Dallas, TX*
+2017-2018 | *Dallas, TX*
+    
+    Full-stack Web Development
+    
+    **Certification**
 
-Full-stack Web Development
+## **Certifications**
+
+- Developing Solutions for Microsoft Azure (AZ-204)
+    2022-2023 *expired
 
 ## Volunteer Work
 - Core team facilitating the Headstorm Internship Program.
