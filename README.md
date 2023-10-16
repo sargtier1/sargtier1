@@ -78,22 +78,15 @@ circa 2017 - Apr 2022 | *Dallas, TX*
 
 ## **Education**
 
-**Collin College**
-
+- **Collin College**
     2012-2016 | *Frisco, TX*
-    
     AS in Computer Science
 
-**Southern Methodist University**
-
-2017-2018 | *Dallas, TX*
-    
+- **Southern Methodist University**
+    2017-2018 | *Dallas, TX*
     Full-stack Web Development
-    
-    **Certification**
 
 ## **Certifications**
-
 - Developing Solutions for Microsoft Azure (AZ-204)
     2022-2023 *expired
 
