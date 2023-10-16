@@ -1,4 +1,4 @@
-# Salvatore Argentieri
+`# Salvatore Argentieri
 
 p) 469-545-2737
 
@@ -77,12 +77,11 @@ circa 2017 - Apr 2022 | *Dallas, TX*
 - Pioneered transformative technological solutions for businesses seeking efficiency and growth, providing expert consultation services to propel them into the future of business operations. Empowering businesses to thrive in the ever-evolving digital landscape.
 
 ## **Education**
-
-- **Collin College**
+**Collin College**
     2012-2016 | *Frisco, TX*
     AS in Computer Science
 
-- **Southern Methodist University**
+**Southern Methodist University**
     2017-2018 | *Dallas, TX*
     Full-stack Web Development
 
