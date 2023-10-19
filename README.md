@@ -14,7 +14,7 @@ Linkedin: @[Salvatore Argentieri](https://www.linkedin.com/in/salvatore-argentie
 
 React.js, Redux, GraphQL client, Internationalization (i18n), SPA/SSR, Qwik/City,  D3.js, Google Earth, MapBox, HTML5, CSS4.
 
-******************************Back-end Development******************************
+**Back-end Development**
 
 RESTful, GraphQL server, tRPC, Node.js, Python, Authentication via Oauth/SSO.
 
